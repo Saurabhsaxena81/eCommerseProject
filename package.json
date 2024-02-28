@@ -1,0 +1,19 @@
+{
+  "name": "ecommerseproject",
+  "version": "1.0.0",
+  "description": "This is the eCom project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saurabhsaxena81/eCommerseProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saurabhsaxena81/eCommerseProject/issues"
+  },
+  "homepage": "https://github.com/Saurabhsaxena81/eCommerseProject#readme"
+}
