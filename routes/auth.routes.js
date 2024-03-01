@@ -1,7 +1,6 @@
 /**
  * receptionist
  *
- *
  * POST localhost:8888/ecomm/api/v1/auth/signup
  *
  * I need to intercept this
@@ -14,6 +13,7 @@ module.exports = (app) => {
     [authMw.verifySignUpBody],
     authController.signup
   );
+
   /**
    * route for
    * POST localhost:8888/ecomm/api/v1/auth/signin
