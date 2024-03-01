@@ -1,4 +1,0 @@
-# eCommerseProject
-
-<br/>
-<hr/>
